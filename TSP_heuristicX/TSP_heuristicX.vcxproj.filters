@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="heuristix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\a280.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ali535.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\bier127.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\br17.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\brazil58.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\brg180.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\d198.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\dantzig42.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\eil51.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ftv35.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ftv38.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ftv55.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ftv64.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ftv70.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\gr17.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\gr21.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\gr24.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\gr48.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\gr96.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\gr120.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\kro124.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\kroA150.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\kroC100.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\pr76.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\pr107.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\rbg323.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\rbg403.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\ry48.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\tsp225.txt" />
+    <Text Include="..\..\..\..\..\Dropbox\3. Modeling and Quantitative Methods - Master%27s Degree\Metaheuristics\PCV\u159.txt" />
+  </ItemGroup>
+</Project>
